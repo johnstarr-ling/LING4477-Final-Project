@@ -1,0 +1,135 @@
+Unnamed: 0,Results.reception.time,MD5.hash.of.participant.s.IP.address,Controller.name,Order.number.of.item,Inner.element.number,Label,Latin.Square.Group,PennElementType,PennElementName,Parameter,Value,EventTime,condition,itemLabel,filename,Comments,response
+713,1651008132,59e908e804691fafd3e79848cdc794e3,PennController,4,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651007143238,IT ONLY,nostril_it,anapest_clean_3a.png,alt2;alt1;IT,0
+29,1651000826,decefc1e3a8a8eedeaa45693ea8d643a,PennController,2,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000439021,IT ONLY,weightless_it,anapest_clean_1a.jpg,alt2;IT;alt1,0
+67,1651000826,decefc1e3a8a8eedeaa45693ea8d643a,PennController,10,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000584799,IT ONLY,exhausted_it,trochaic_clean_3a.png,IT;alt1;alt2,0
+76,1651000826,decefc1e3a8a8eedeaa45693ea8d643a,PennController,6,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000614089,IT ONLY,adhesive_it,iambic_clean_1b.jpg,IT;alt1;alt2,0
+130,1651001072,a324636b0d304529099de5d85d5a67e8,PennController,2,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000594049,IT ONLY,weightless_it,anapest_clean_1a.jpg,alt2;alt1;IT,0
+139,1651001072,a324636b0d304529099de5d85d5a67e8,PennController,6,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000641904,IT ONLY,adhesive_it,iambic_clean_1b.jpg,alt1;alt2;IT,0
+175,1651001072,a324636b0d304529099de5d85d5a67e8,PennController,10,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000802212,IT ONLY,exhausted_it,trochaic_clean_3a.png,IT;alt2;alt1,0
+246,1651001162,a0e4f7ac5011c01e4c10521dfae9d3c9,PennController,2,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000707873,IT ONLY,weightless_it,anapest_clean_1a.jpg,alt1;IT;alt2,0
+282,1651001162,a0e4f7ac5011c01e4c10521dfae9d3c9,PennController,6,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000877354,IT ONLY,adhesive_it,iambic_clean_1b.jpg,IT;alt2;alt1,0
+299,1651001162,a0e4f7ac5011c01e4c10521dfae9d3c9,PennController,10,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000943389,IT ONLY,exhausted_it,trochaic_clean_3a.png,alt1;IT;alt2,0
+359,1651001488,f67d7fee8be0ac4885ad8590ad784f0d,PennController,3,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651001064092,IT ONLY,alcohol_it,trochaic_clean_1b.jpg,alt2;alt1;IT,0
+394,1651001488,f67d7fee8be0ac4885ad8590ad784f0d,PennController,11,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651001207626,IT ONLY,exam_it,dactyl_clean_1a.jpg,alt1;alt2;IT,0
+499,1651003315,1a5ed2728eefe44a100abebf0c9a90bc,PennController,2,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651003021496,IT ONLY,weightless_it,anapest_clean_1a.jpg,IT;alt1;alt2,0
+527,1651003315,1a5ed2728eefe44a100abebf0c9a90bc,PennController,10,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651003125748,IT ONLY,exhausted_it,trochaic_clean_3a.png,alt2;IT;alt1,0
+554,1651003315,1a5ed2728eefe44a100abebf0c9a90bc,PennController,6,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651003222578,IT ONLY,adhesive_it,iambic_clean_1b.jpg,IT;alt1;alt2,0
+591,1651004051,44b6630033271b73974dc02e2b43ca46,PennController,11,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651003487757,IT ONLY,exam_it,dactyl_clean_1a.jpg,alt1;IT;alt2,0
+766,1651008132,59e908e804691fafd3e79848cdc794e3,PennController,8,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651007388450,IT ONLY,weeds_it,iambic_clean_1a.jpg,IT;alt2;alt1,0
+775,1651008132,59e908e804691fafd3e79848cdc794e3,PennController,12,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651007426049,IT ONLY,mailed_it,iambic_clean_2b.jpg,alt2;IT;alt1,0
+837,1651013504,35dfd4e4f319f9d99bfae3131f2a13bc,PennController,9,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651013070792,IT ONLY,store_it,dactyl_clean_1b.jpg,alt1;alt2;IT,0
+856,1651013504,35dfd4e4f319f9d99bfae3131f2a13bc,PennController,13,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651013157257,IT ONLY,organized_it,dactyl_clean_2b.jpg,alt1;IT;alt2,0
+894,1651013504,35dfd4e4f319f9d99bfae3131f2a13bc,PennController,5,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651013344482,IT ONLY,warm_it,none_clean_2a.jpg,alt2;alt1;IT,0
+938,1651017955,43a176d6a64c52e4ceb188907a5c3943,PennController,6,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651017452641,IT ONLY,adhesive_it,iambic_clean_1b.jpg,alt1;IT;alt2,0
+966,1651017955,43a176d6a64c52e4ceb188907a5c3943,PennController,2,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651017593853,IT ONLY,weightless_it,anapest_clean_1a.jpg,alt2;alt1;IT,0
+1042,1651017955,43a176d6a64c52e4ceb188907a5c3943,PennController,10,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651017963357,IT ONLY,exhausted_it,trochaic_clean_3a.png,alt2;IT;alt1,0
+1090,1651023940,68605a6f0e84714cd1fedb708b1e3a59,PennController,11,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651023364546,IT ONLY,exam_it,dactyl_clean_1a.jpg,IT;alt2;alt1,0
+1125,1651023940,68605a6f0e84714cd1fedb708b1e3a59,PennController,3,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651023694218,IT ONLY,alcohol_it,trochaic_clean_1b.jpg,IT;alt2;alt1,0
+1175,1651025040,e4b2caa27b0cdd0378029774841336d8,PennController,3,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651024061766,IT ONLY,alcohol_it,trochaic_clean_1b.jpg,alt1;IT;alt2,0
+1266,1651025040,e4b2caa27b0cdd0378029774841336d8,PennController,11,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651024903557,IT ONLY,exam_it,dactyl_clean_1a.jpg,alt1;alt2;IT,0
+1281,1651027670,b2f197b9ab4d2d10484aa7fcb6f6c030,PennController,5,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651027245549,IT ONLY,warm_it,none_clean_2a.jpg,IT;alt2;alt1,0
+1291,1651027670,b2f197b9ab4d2d10484aa7fcb6f6c030,PennController,13,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651027282436,IT ONLY,organized_it,dactyl_clean_2b.jpg,alt1;IT;alt2,0
+1346,1651027670,b2f197b9ab4d2d10484aa7fcb6f6c030,PennController,9,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651027503298,IT ONLY,store_it,dactyl_clean_1b.jpg,alt2;alt1;IT,0
+903,1651013504,35dfd4e4f319f9d99bfae3131f2a13bc,PennController,4,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651013380731,ALT-IT ONLY,nostril_alt,anapest_clean_3a.png,alt2;IT;alt1,0
+1383,1651027670,b2f197b9ab4d2d10484aa7fcb6f6c030,PennController,4,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651027655131,ALT-IT ONLY,nostril_alt,anapest_clean_3a.png,alt1;IT;alt2,1
+20,1651000826,decefc1e3a8a8eedeaa45693ea8d643a,PennController,5,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000405595,ALT-IT ONLY,warm_alt,none_clean_2a.jpg,alt2;IT;alt1,0
+47,1651000826,decefc1e3a8a8eedeaa45693ea8d643a,PennController,9,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000515500,ALT-IT ONLY,store_alt,dactyl_clean_1b.jpg,alt1;alt2;IT,0
+84,1651000826,decefc1e3a8a8eedeaa45693ea8d643a,PennController,13,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000645826,ALT-IT ONLY,organized_alt,dactyl_clean_2b.jpg,alt1;IT;alt2,0
+147,1651001072,a324636b0d304529099de5d85d5a67e8,PennController,13,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000677892,ALT-IT ONLY,organized_alt,dactyl_clean_2b.jpg,IT;alt1;alt2,0
+166,1651001072,a324636b0d304529099de5d85d5a67e8,PennController,5,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651000765130,ALT-IT ONLY,warm_alt,none_clean_2a.jpg,alt1;alt2;IT,1
+221,1651001072,a324636b0d304529099de5d85d5a67e8,PennController,9,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651001028963,ALT-IT ONLY,store_alt,dactyl_clean_1b.jpg,IT;alt2;alt1,0
+255,1651001162,a0e4f7ac5011c01e4c10521dfae9d3c9,PennController,13,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000748217,ALT-IT ONLY,organized_alt,dactyl_clean_2b.jpg,alt1;alt2;IT,0
+308,1651001162,a0e4f7ac5011c01e4c10521dfae9d3c9,PennController,5,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000977542,ALT-IT ONLY,warm_alt,none_clean_2a.jpg,alt2;IT;alt1,0
+327,1651001162,a0e4f7ac5011c01e4c10521dfae9d3c9,PennController,9,0,experimental-trials,,Selector,answer-alt,Selection,alt2,1651001065838,ALT-IT ONLY,store_alt,dactyl_clean_1b.jpg,alt2;IT;alt1,2
+385,1651001488,f67d7fee8be0ac4885ad8590ad784f0d,PennController,2,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651001176003,ALT-IT ONLY,weightless_alt,anapest_clean_1a.jpg,IT;alt1;alt2,1
+440,1651001488,f67d7fee8be0ac4885ad8590ad784f0d,PennController,10,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651001372607,ALT-IT ONLY,exhausted_alt,trochaic_clean_3a.png,alt2;alt1;IT,1
+457,1651001488,f67d7fee8be0ac4885ad8590ad784f0d,PennController,6,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651001442160,ALT-IT ONLY,adhesive_alt,iambic_clean_1b.jpg,alt1;IT;alt2,1
+481,1651003315,1a5ed2728eefe44a100abebf0c9a90bc,PennController,9,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651002953277,ALT-IT ONLY,store_alt,dactyl_clean_1b.jpg,alt1;alt2;IT,0
+490,1651003315,1a5ed2728eefe44a100abebf0c9a90bc,PennController,13,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651002989525,ALT-IT ONLY,organized_alt,dactyl_clean_2b.jpg,alt1;IT;alt2,0
+509,1651003315,1a5ed2728eefe44a100abebf0c9a90bc,PennController,5,0,experimental-trials,,Selector,answer-alt,Selection,alt2,1651003057649,ALT-IT ONLY,warm_alt,none_clean_2a.jpg,alt2;IT;alt1,2
+610,1651004051,44b6630033271b73974dc02e2b43ca46,PennController,2,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651003611327,ALT-IT ONLY,weightless_alt,anapest_clean_1a.jpg,alt2;alt1;IT,1
+627,1651004051,44b6630033271b73974dc02e2b43ca46,PennController,10,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651003701660,ALT-IT ONLY,exhausted_alt,trochaic_clean_3a.png,alt1;IT;alt2,1
+654,1651004051,44b6630033271b73974dc02e2b43ca46,PennController,6,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651003852561,ALT-IT ONLY,adhesive_alt,iambic_clean_1b.jpg,IT;alt1;alt2,0
+741,1651008132,59e908e804691fafd3e79848cdc794e3,PennController,11,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651007272695,ALT-IT ONLY,exam_alt,dactyl_clean_1a.jpg,alt1;IT;alt2,0
+785,1651008132,59e908e804691fafd3e79848cdc794e3,PennController,3,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651007465267,ALT-IT ONLY,alcohol_alt,trochaic_clean_1b.jpg,alt2;IT;alt1,0
+847,1651013504,35dfd4e4f319f9d99bfae3131f2a13bc,PennController,12,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651013123003,ALT-IT ONLY,mailed_alt,iambic_clean_2b.jpg,alt1;IT;alt2,0
+885,1651013504,35dfd4e4f319f9d99bfae3131f2a13bc,PennController,8,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651013305285,ALT-IT ONLY,weeds_alt,iambic_clean_1a.jpg,IT;alt1;alt2,0
+947,1651017955,43a176d6a64c52e4ceb188907a5c3943,PennController,5,0,experimental-trials,,Selector,answer-alt,Selection,alt2,1651017507445,ALT-IT ONLY,warm_alt,none_clean_2a.jpg,alt2;IT;alt1,2
+985,1651017955,43a176d6a64c52e4ceb188907a5c3943,PennController,9,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651017696641,ALT-IT ONLY,store_alt,dactyl_clean_1b.jpg,alt2;alt1;IT,0
+1004,1651017955,43a176d6a64c52e4ceb188907a5c3943,PennController,13,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651017784139,ALT-IT ONLY,organized_alt,dactyl_clean_2b.jpg,alt2;alt1;IT,0
+1116,1651023940,68605a6f0e84714cd1fedb708b1e3a59,PennController,2,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651023636448,ALT-IT ONLY,weightless_alt,anapest_clean_1a.jpg,IT;alt2;alt1,1
+1144,1651023940,68605a6f0e84714cd1fedb708b1e3a59,PennController,6,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651023831304,ALT-IT ONLY,adhesive_alt,iambic_clean_1b.jpg,alt1;alt2;IT,0
+1194,1651025040,e4b2caa27b0cdd0378029774841336d8,PennController,10,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651024160354,ALT-IT ONLY,exhausted_alt,trochaic_clean_3a.png,alt2;alt1;IT,1
+1212,1651025040,e4b2caa27b0cdd0378029774841336d8,PennController,6,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651024289282,ALT-IT ONLY,adhesive_alt,iambic_clean_1b.jpg,alt1;alt2;IT,0
+1231,1651025040,e4b2caa27b0cdd0378029774841336d8,PennController,2,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651024540174,ALT-IT ONLY,weightless_alt,anapest_clean_1a.jpg,IT;alt2;alt1,1
+1327,1651027670,b2f197b9ab4d2d10484aa7fcb6f6c030,PennController,12,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651027435112,ALT-IT ONLY,mailed_alt,iambic_clean_2b.jpg,alt1;alt2;IT,0
+1374,1651027670,b2f197b9ab4d2d10484aa7fcb6f6c030,PennController,8,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651027616429,ALT-IT ONLY,weeds_alt,iambic_clean_1a.jpg,IT;alt2;alt1,1
+102,1651000826,decefc1e3a8a8eedeaa45693ea8d643a,PennController,4,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000716396,IT%2C ALT-IT,nostril_both,anapest_clean_3a.png,IT;alt2;alt1,0
+203,1651001072,a324636b0d304529099de5d85d5a67e8,PennController,4,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000956943,IT%2C ALT-IT,nostril_both,anapest_clean_3a.png,IT;alt2;alt1,0
+290,1651001162,a0e4f7ac5011c01e4c10521dfae9d3c9,PennController,4,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000908260,IT%2C ALT-IT,nostril_both,anapest_clean_3a.png,alt1;IT;alt2,0
+536,1651003315,1a5ed2728eefe44a100abebf0c9a90bc,PennController,4,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651003155345,IT%2C ALT-IT,nostril_both,anapest_clean_3a.png,alt2;IT;alt1,0
+1032,1651017955,43a176d6a64c52e4ceb188907a5c3943,PennController,4,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651017918443,IT%2C ALT-IT,nostril_both,anapest_clean_3a.png,alt2;IT;alt1,0
+828,1651013504,35dfd4e4f319f9d99bfae3131f2a13bc,PennController,7,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651013035846,IT%2C ALT-IT,seasoning_both,iambic_clean_2a.png,alt1;IT;alt2,0
+1319,1651027670,b2f197b9ab4d2d10484aa7fcb6f6c030,PennController,7,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651027400279,IT%2C ALT-IT,seasoning_both,iambic_clean_2a.png,IT;alt2;alt1,0
+38,1651000826,decefc1e3a8a8eedeaa45693ea8d643a,PennController,12,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000476217,IT%2C ALT-IT,mailed_both,iambic_clean_2b.jpg,alt2;IT;alt1,0
+57,1651000826,decefc1e3a8a8eedeaa45693ea8d643a,PennController,8,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000549666,IT%2C ALT-IT,weeds_both,iambic_clean_1a.jpg,alt1;alt2;IT,0
+184,1651001072,a324636b0d304529099de5d85d5a67e8,PennController,8,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000867693,IT%2C ALT-IT,weeds_both,iambic_clean_1a.jpg,IT;alt2;alt1,0
+231,1651001072,a324636b0d304529099de5d85d5a67e8,PennController,12,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651001064295,IT%2C ALT-IT,mailed_both,iambic_clean_2b.jpg,alt1;IT;alt2,0
+265,1651001162,a0e4f7ac5011c01e4c10521dfae9d3c9,PennController,8,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000799293,IT%2C ALT-IT,weeds_both,iambic_clean_1a.jpg,IT;alt2;alt1,0
+344,1651001162,a0e4f7ac5011c01e4c10521dfae9d3c9,PennController,12,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651001140860,IT%2C ALT-IT,mailed_both,iambic_clean_2b.jpg,alt1;IT;alt2,0
+412,1651001488,f67d7fee8be0ac4885ad8590ad784f0d,PennController,5,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651001271873,IT%2C ALT-IT,warm_both,none_clean_2a.jpg,IT;alt2;alt1,0
+421,1651001488,f67d7fee8be0ac4885ad8590ad784f0d,PennController,13,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651001304110,IT%2C ALT-IT,organized_both,dactyl_clean_2b.jpg,alt2;IT;alt1,0
+431,1651001488,f67d7fee8be0ac4885ad8590ad784f0d,PennController,9,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651001336110,IT%2C ALT-IT,store_both,dactyl_clean_1b.jpg,IT;alt1;alt2,0
+545,1651003315,1a5ed2728eefe44a100abebf0c9a90bc,PennController,8,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651003186466,IT%2C ALT-IT,weeds_both,iambic_clean_1a.jpg,alt2;alt1;IT,0
+563,1651003315,1a5ed2728eefe44a100abebf0c9a90bc,PennController,12,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651003256419,IT%2C ALT-IT,mailed_both,iambic_clean_2b.jpg,alt1;IT;alt2,0
+637,1651004051,44b6630033271b73974dc02e2b43ca46,PennController,13,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651003746611,IT%2C ALT-IT,organized_both,dactyl_clean_2b.jpg,alt1;IT;alt2,1
+663,1651004051,44b6630033271b73974dc02e2b43ca46,PennController,9,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651003894181,IT%2C ALT-IT,store_both,dactyl_clean_1b.jpg,alt2;IT;alt1,1
+689,1651004051,44b6630033271b73974dc02e2b43ca46,PennController,5,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651004005206,IT%2C ALT-IT,warm_both,none_clean_2a.jpg,IT;alt2;alt1,0
+722,1651008132,59e908e804691fafd3e79848cdc794e3,PennController,10,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651007184488,IT%2C ALT-IT,exhausted_both,trochaic_clean_3a.png,IT;alt1;alt2,0
+757,1651008132,59e908e804691fafd3e79848cdc794e3,PennController,6,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651007355377,IT%2C ALT-IT,adhesive_both,iambic_clean_1b.jpg,alt1;IT;alt2,0
+802,1651008132,59e908e804691fafd3e79848cdc794e3,PennController,2,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651008044772,IT%2C ALT-IT,weightless_both,anapest_clean_1a.jpg,alt1;IT;alt2,0
+865,1651013504,35dfd4e4f319f9d99bfae3131f2a13bc,PennController,3,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651013211214,IT%2C ALT-IT,alcohol_both,trochaic_clean_1b.jpg,alt1;alt2;IT,0
+911,1651013504,35dfd4e4f319f9d99bfae3131f2a13bc,PennController,11,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651013412088,IT%2C ALT-IT,exam_both,dactyl_clean_1a.jpg,IT;alt1;alt2,0
+957,1651017955,43a176d6a64c52e4ceb188907a5c3943,PennController,8,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651017559488,IT%2C ALT-IT,weeds_both,iambic_clean_1a.jpg,alt2;IT;alt1,0
+995,1651017955,43a176d6a64c52e4ceb188907a5c3943,PennController,12,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651017746230,IT%2C ALT-IT,mailed_both,iambic_clean_2b.jpg,alt2;alt1;IT,0
+1100,1651023940,68605a6f0e84714cd1fedb708b1e3a59,PennController,9,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651023547896,IT%2C ALT-IT,store_both,dactyl_clean_1b.jpg,alt1;alt2;IT,0
+1152,1651023940,68605a6f0e84714cd1fedb708b1e3a59,PennController,13,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651023909838,IT%2C ALT-IT,organized_both,dactyl_clean_2b.jpg,alt2;IT;alt1,0
+1166,1651025040,e4b2caa27b0cdd0378029774841336d8,PennController,5,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651023946431,IT%2C ALT-IT,warm_both,none_clean_2a.jpg,alt2;alt1;IT,0
+1184,1651025040,e4b2caa27b0cdd0378029774841336d8,PennController,13,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651024095331,IT%2C ALT-IT,organized_both,dactyl_clean_2b.jpg,alt2;IT;alt1,0
+1221,1651025040,e4b2caa27b0cdd0378029774841336d8,PennController,9,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651024370289,IT%2C ALT-IT,store_both,dactyl_clean_1b.jpg,alt2;alt1;IT,0
+1310,1651027670,b2f197b9ab4d2d10484aa7fcb6f6c030,PennController,3,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651027357760,IT%2C ALT-IT,alcohol_both,trochaic_clean_1b.jpg,alt1;IT;alt2,0
+1355,1651027670,b2f197b9ab4d2d10484aa7fcb6f6c030,PennController,11,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651027537471,IT%2C ALT-IT,exam_both,dactyl_clean_1a.jpg,IT;alt2;alt1,0
+375,1651001488,f67d7fee8be0ac4885ad8590ad784f0d,PennController,4,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651001136427,CONTROL,nostril_control,anapest_clean_3a.png,alt1;IT;alt2,1
+681,1651004051,44b6630033271b73974dc02e2b43ca46,PennController,4,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651003969922,CONTROL,nostril_control,anapest_clean_3a.png,alt1;alt2;IT,0
+1074,1651023940,68605a6f0e84714cd1fedb708b1e3a59,PennController,4,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651023273389,CONTROL,nostril_control,anapest_clean_3a.png,alt1;IT;alt2,1
+1258,1651025040,e4b2caa27b0cdd0378029774841336d8,PennController,4,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651024846636,CONTROL,nostril_control,anapest_clean_3a.png,alt2;IT;alt1,1
+93,1651000826,decefc1e3a8a8eedeaa45693ea8d643a,PennController,7,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651000686490,CONTROL,seasoning_control,iambic_clean_2a.png,alt2;IT;alt1,1
+211,1651001072,a324636b0d304529099de5d85d5a67e8,PennController,7,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000991526,CONTROL,seasoning_control,iambic_clean_2a.png,IT;alt2;alt1,0
+471,1651003315,1a5ed2728eefe44a100abebf0c9a90bc,PennController,7,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651002914888,CONTROL,seasoning_control,iambic_clean_2a.png,alt2;alt1;IT,1
+976,1651017955,43a176d6a64c52e4ceb188907a5c3943,PennController,7,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651017648424,CONTROL,seasoning_control,iambic_clean_2a.png,alt1;alt2;IT,1
+10,1651000826,decefc1e3a8a8eedeaa45693ea8d643a,PennController,3,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651000341836,CONTROL,alcohol_control,trochaic_clean_1b.jpg,alt2;alt1;IT,1
+111,1651000826,decefc1e3a8a8eedeaa45693ea8d643a,PennController,11,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651000747953,CONTROL,exam_control,dactyl_clean_1a.jpg,alt2;alt1;IT,1
+157,1651001072,a324636b0d304529099de5d85d5a67e8,PennController,3,0,experimental-trials,,Selector,answer-alt,Selection,alt2,1651000724417,CONTROL,alcohol_control,trochaic_clean_1b.jpg,alt2;alt1;IT,2
+194,1651001072,a324636b0d304529099de5d85d5a67e8,PennController,11,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651000921687,CONTROL,exam_control,dactyl_clean_1a.jpg,alt2;alt1;IT,0
+318,1651001162,a0e4f7ac5011c01e4c10521dfae9d3c9,PennController,11,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651001023946,CONTROL,exam_control,dactyl_clean_1a.jpg,alt2;IT;alt1,1
+336,1651001162,a0e4f7ac5011c01e4c10521dfae9d3c9,PennController,3,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651001110894,CONTROL,alcohol_control,trochaic_clean_1b.jpg,alt1;IT;alt2,0
+367,1651001488,f67d7fee8be0ac4885ad8590ad784f0d,PennController,12,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651001105231,CONTROL,mailed_control,iambic_clean_2b.jpg,IT;alt2;alt1,0
+448,1651001488,f67d7fee8be0ac4885ad8590ad784f0d,PennController,8,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651001404240,CONTROL,weeds_control,iambic_clean_1a.jpg,alt2;IT;alt1,0
+517,1651003315,1a5ed2728eefe44a100abebf0c9a90bc,PennController,11,0,experimental-trials,,Selector,answer-alt,Selection,alt2,1651003087194,CONTROL,exam_control,dactyl_clean_1a.jpg,alt2;alt1;IT,2
+573,1651003315,1a5ed2728eefe44a100abebf0c9a90bc,PennController,3,0,experimental-trials,,Selector,answer-alt,Selection,alt2,1651003302057,CONTROL,alcohol_control,trochaic_clean_1b.jpg,alt1;alt2;IT,2
+601,1651004051,44b6630033271b73974dc02e2b43ca46,PennController,12,0,experimental-trials,,Selector,answer-alt,Selection,alt2,1651003536574,CONTROL,mailed_control,iambic_clean_2b.jpg,alt1;alt2;IT,2
+703,1651008132,59e908e804691fafd3e79848cdc794e3,PennController,13,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651007088102,CONTROL,organized_control,dactyl_clean_2b.jpg,alt2;IT;alt1,1
+731,1651008132,59e908e804691fafd3e79848cdc794e3,PennController,9,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651007227578,CONTROL,store_control,dactyl_clean_1b.jpg,alt1;alt2;IT,1
+793,1651008132,59e908e804691fafd3e79848cdc794e3,PennController,5,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651007496913,CONTROL,warm_control,none_clean_2a.jpg,alt1;alt2;IT,1
+819,1651013504,35dfd4e4f319f9d99bfae3131f2a13bc,PennController,2,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651012993856,CONTROL,weightless_control,anapest_clean_1a.jpg,IT;alt2;alt1,1
+875,1651013504,35dfd4e4f319f9d99bfae3131f2a13bc,PennController,10,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651013259871,CONTROL,exhausted_control,trochaic_clean_3a.png,alt2;alt1;IT,0
+919,1651013504,35dfd4e4f319f9d99bfae3131f2a13bc,PennController,6,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651013447373,CONTROL,adhesive_control,iambic_clean_1b.jpg,alt1;IT;alt2,1
+1013,1651017955,43a176d6a64c52e4ceb188907a5c3943,PennController,3,0,experimental-trials,,Selector,answer-alt,Selection,alt2,1651017828302,CONTROL,alcohol_control,trochaic_clean_1b.jpg,IT;alt1;alt2,2
+1023,1651017955,43a176d6a64c52e4ceb188907a5c3943,PennController,11,0,experimental-trials,,Selector,answer-alt,Selection,alt2,1651017884404,CONTROL,exam_control,dactyl_clean_1a.jpg,IT;alt1;alt2,2
+1057,1651023940,68605a6f0e84714cd1fedb708b1e3a59,PennController,12,0,experimental-trials,,Selector,answer-alt,Selection,alt2,1651023197251,CONTROL,mailed_control,iambic_clean_2b.jpg,alt1;IT;alt2,2
+1065,1651023940,68605a6f0e84714cd1fedb708b1e3a59,PennController,8,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651023232189,CONTROL,weeds_control,iambic_clean_1a.jpg,alt1;IT;alt2,0
+1202,1651025040,e4b2caa27b0cdd0378029774841336d8,PennController,12,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651024222677,CONTROL,mailed_control,iambic_clean_2b.jpg,alt1;alt2;IT,1
+1240,1651025040,e4b2caa27b0cdd0378029774841336d8,PennController,8,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651024652341,CONTROL,weeds_control,iambic_clean_1a.jpg,IT;alt1;alt2,0
+1300,1651027670,b2f197b9ab4d2d10484aa7fcb6f6c030,PennController,6,0,experimental-trials,,Selector,answer-alt,Selection,alt1,1651027320588,CONTROL,adhesive_control,iambic_clean_1b.jpg,alt1;IT;alt2,1
+1337,1651027670,b2f197b9ab4d2d10484aa7fcb6f6c030,PennController,10,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651027471270,CONTROL,exhausted_control,trochaic_clean_3a.png,IT;alt2;alt1,0
+1364,1651027670,b2f197b9ab4d2d10484aa7fcb6f6c030,PennController,2,0,experimental-trials,,Selector,answer-alt,Selection,IT,1651027571657,CONTROL,weightless_control,anapest_clean_1a.jpg,alt2;IT;alt1,0

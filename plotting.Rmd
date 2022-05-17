@@ -1,0 +1,38 @@
+---
+title: "Untitled"
+author: "John R. Starr"
+date: "4/27/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+```{r cars}
+library(tidyverse)
+library(ggplot2)
+
+data <- read_csv('sem_mall_totals.csv')
+head(data)
+
+ggplot(data, aes(fill=Selection, y=propSelection, x=Condition)) + 
+    geom_bar(position="stack", stat="identity") +
+    labs(title = 'Selection Rate by Condition (Stacked)') +
+    ylab('Selection Rate') +
+    theme(text = element_text(size = 32))
+ggsave('stacked_plot.png', width = 18, height = 12)
+
+
+ggplot(data, aes(fill=Selection, y=propSelection, x=Condition))+
+  geom_bar(stat = "identity", position = position_dodge())+
+  geom_errorbar(aes(ymin = lowerCI, ymax = upperCI), position = position_dodge(0.9)) +
+    labs(title = 'Selection Rate by Condition (Unstacked)') +
+    ylab('Selection Rate') +
+    theme(text = element_text(size = 32))
+ggsave('multibar_plot.png', width = 22, height = 10)
+```
+
+

@@ -1,0 +1,49 @@
+﻿filename,condition,itemLabel,shownWord,IT,alt1,alt2,Group
+anapest_clean_1a.jpg,IT ONLY,weightless_it,weightless,right,tight,slight,A
+anapest_clean_1a.jpg,ALT-IT ONLY,weightless_alt,weightless,light,tight,slight,B
+anapest_clean_1a.jpg,"IT, ALT-IT",weightless_both,weightless,right,light,tight,C
+anapest_clean_1a.jpg,CONTROL,weightless_control,weightless,tight,slight,white,D
+trochaic_clean_1b.jpg,IT ONLY,alcohol_it,alcohol,fear,gear,deer,B
+trochaic_clean_1b.jpg,ALT-IT ONLY,alcohol_alt,alcohol,beer,gear,deer,C
+trochaic_clean_1b.jpg,"IT, ALT-IT",alcohol_both,alcohol,fear,beer,gear,D
+trochaic_clean_1b.jpg,CONTROL,alcohol_control,alcohol,gear,deer,cheer,A
+anapest_clean_3a.png,IT ONLY,nostril_it,nostril,rose,pose,prose,C
+anapest_clean_3a.png,ALT-IT ONLY,nostril_alt,nostril,nose,pose,prose,D
+anapest_clean_3a.png,"IT, ALT-IT",nostril_both,nostril,rose,hose,nose,A
+anapest_clean_3a.png,CONTROL,nostril_control,nostril,pose,prose,throes,B
+none_clean_2a.jpg,IT ONLY,warm_it,warm,not,taut,caught,D
+none_clean_2a.jpg,ALT-IT ONLY,warm_alt,warm,hot,taut,caught,A
+none_clean_2a.jpg,"IT, ALT-IT",warm_both,warm,not,hot,taut,B
+none_clean_2a.jpg,CONTROL,warm_control,warm,taut,fraught,rot,C
+iambic_clean_1b.jpg,IT ONLY,adhesive_it,adhesive,blue,stew,dew,A
+iambic_clean_1b.jpg,ALT-IT ONLY,adhesive_alt,adhesive,glue,stew,dew,B
+iambic_clean_1b.jpg,"IT, ALT-IT",adhesive_both,adhesive,blue,glue,stew,C
+iambic_clean_1b.jpg,CONTROL,adhesive_control,adhesive,stew,dew,crew,D
+iambic_clean_2a.png,IT ONLY,seasoning_it,seasoning,spice,mice,ice,B
+iambic_clean_2a.png,ALT-IT ONLY,seasoning_alt,seasoning,rice,mice,ice,C
+iambic_clean_2a.png,"IT, ALT-IT",seasoning_both,seasoning,spice,rice,ice,D
+iambic_clean_2a.png,CONTROL,seasoning_control,seasoning,mice,ice,dice,A
+iambic_clean_1a.jpg,IT ONLY,weeds_it,weeds,glass,brass,gas,C
+iambic_clean_1a.jpg,ALT-IT ONLY,weeds_alt,weeds,grass,brass,gas,D
+iambic_clean_1a.jpg,"IT, ALT-IT",weeds_both,weeds,glass,grass,brass,A
+iambic_clean_1a.jpg,CONTROL,weeds_control,weeds,brass,gas,sass,B
+dactyl_clean_1b.jpg,IT ONLY,store_it,store,cop,mop,chop,D
+dactyl_clean_1b.jpg,ALT-IT ONLY,store_alt,store,shop,mop,chop,A
+dactyl_clean_1b.jpg,"IT, ALT-IT",store_both,store,cop,shop,mop,B
+dactyl_clean_1b.jpg,CONTROL,store_control,store,mop,chop,slop,C
+trochaic_clean_3a.png,IT ONLY,exhausted_it,exhausted,fired,wired,sired,A
+trochaic_clean_3a.png,ALT-IT ONLY,exhausted_alt,exhausted,tired,wired,sired,B
+trochaic_clean_3a.png,"IT, ALT-IT",exhausted_both,exhausted,fired,tired,wired,C
+trochaic_clean_3a.png,CONTROL,exhausted_control,exhausted,wired,sired,desired,D
+dactyl_clean_1a.jpg,IT ONLY,exam_it,exam,rest,quest,guest,B
+dactyl_clean_1a.jpg,ALT-IT ONLY,exam_alt,exam,test,quest,guest,C
+dactyl_clean_1a.jpg,"IT, ALT-IT",exam_both,exam,rest,test,quest,D
+dactyl_clean_1a.jpg,CONTROL,exam_control,exam,quest,guest,stressed,A
+iambic_clean_2b.jpg,IT ONLY,mailed_it,mailed,spent,meant,bent,C
+iambic_clean_2b.jpg,ALT-IT ONLY,mailed_alt,mailed,sent,meant,bent,D
+iambic_clean_2b.jpg,"IT, ALT-IT",mailed_both,mailed,spent,sent,meant,A
+iambic_clean_2b.jpg,CONTROL,mailed_control,mailed,meant,bent,rent,B
+dactyl_clean_2b.jpg,IT ONLY,organized_it,organized,bland,tanned,manned,D
+dactyl_clean_2b.jpg,ALT-IT ONLY,organized_alt,organized,planned,tanned,manned,A
+dactyl_clean_2b.jpg,"IT, ALT-IT",organized_both,organized,bland,planned,tanned,B
+dactyl_clean_2b.jpg,CONTROL,organized_control,organized,tanned,manned,fanned,C
